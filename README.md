@@ -3,10 +3,6 @@
 
 ---
 
-### 🌐 Ijtimoiy tarmoqlar:
-[![Telegram](@k_nad1ra)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
----
 
 ### 🛠️ Texnologiyalar:
 
