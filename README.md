@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Salom+👋,+Men+Nodira;Python+Django+dasturchisi;Backend+developer🚀&center=true&width=500&height=50&pause=1000">
-</p>
+<h1 align="center">✨ Salom 👋, Men <span style="color:#ff69b4;">Nodira</span> ✨</h1>
+<p align="center"><strong>Python/Django dasturchisi 💻</strong></p>
+
 ---
 
 ### 📱 Aloqa
