@@ -18,13 +18,9 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge)
 
-#### 🗄️ Ma'lumotlar bazasi
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### 🎨 Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -44,14 +40,6 @@
 
 ---
 
-### 💡 Qiziqishlar
-
-- 🌱 Yangi texnologiyalarni o‘rganish
-- 🛠 Django REST API lar yaratish
-- 💬 Dasturlashni boshqalarga o‘rgatish
-- ✨ Portfolio ustida ishlash
-
----
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" width="400px"/>
