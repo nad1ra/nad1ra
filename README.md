@@ -1,9 +1,7 @@
-███╗ ██╗ ██████╗ ██████╗ ██╗██████╗ █████╗
-████╗ ██║██╔═══██╗██╔══██╗██║██╔══██╗██╔══██╗
-██╔██╗ ██║██║ ██║██████╔╝██║██████╔╝███████║
-██║╚██╗██║██║ ██║██╔═══╝ ██║██╔═══╝ ██╔══██║
-██║ ╚████║╚██████╔╝██║ ██║██║ ██║ ██║
-╚═╝ ╚═══╝ ╚═════╝ ╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Salom!+Men+Nodira;Python+Django+dasturchisi;Backend+developer🚀&center=true&width=500&height=50">
+</p>
+
 
 ---
 
